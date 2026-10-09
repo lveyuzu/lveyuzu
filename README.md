@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="banner.gif" width="100%" alt="lveyuzu"/>
+<!-- ============================================================
+  YOUR GIF GOES HERE.
+  Option A: put your gif in this repo as assets/header.gif (keep the path below)
+  Option B: replace the src with any direct .gif link (giphy, tenor, imgur...)
+  Look for dark / neon / glitch / retro-computer gifs to match the theme.
+============================================================ -->
+<img src="assets/header.gif" width="100%" alt="header gif"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=34&duration=4000&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&height=60&lines=lveyuzu" alt="name"/>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=48&duration=4000&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&height=80&lines=lveyuzu" alt="lveyuzu"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+still+a+learning+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
 
@@ -14,7 +22,8 @@
 
 <br>
 
-## about
+<a name="about"></a>
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=about" alt="about"/>
 
 ```bash
 $ cat about.txt
@@ -45,7 +54,8 @@ interests/
 
 <br>
 
-## stack
+<a name="stack"></a>
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=stack" alt="stack"/>
 
 <div align="center">
 
@@ -59,7 +69,8 @@ interests/
 
 <br>
 
-## stats
+<a name="stats"></a>
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=stats" alt="stats"/>
 
 <div align="center">
 <table>
@@ -76,21 +87,12 @@ interests/
 
 <br>
 
-## contact
+<a name="contact"></a>
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=contact" alt="contact"/>
 
 <div align="center">
 
 [![email](https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](mailto:YOUR_EMAIL@gmail.com)
 [![discord](https://img.shields.io/badge/discord-YOUR__DISCORD__NAME-0a0a0a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](https://discord.com/users/YOUR_DISCORD_ID)
 
-<sub><code>lveyuzu · ver 1.03</code></sub>
-
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=0f3d2a&label=PORT" alt="visitor count"/>
-
-<sub><code>copyright USERNAME (c) 2026 · ver 1.0</code></sub>
-
-</div>
-
-
