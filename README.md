@@ -23,14 +23,14 @@
 ```bash
 $ cat about.txt
 
-name       : USERNAME
-status     : computer engineering student (still learning, always)
+name       : LVEYUZU
+status     : computer engineering student 
 focus      : low-level stuff, systems, and AI agents
-mode       : nonchalant, curious, probably reading docs at 3am
+
 ```
 
 <img align="right" width="260" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="terminal gif"/>
-<!-- ^ swap this with your own gif. keep it green/dark/glitchy to match the theme -->
+
 
 ```text
 interests/
