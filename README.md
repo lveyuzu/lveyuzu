@@ -1,15 +1,9 @@
 <div align="center">
 
-<!-- ============================================================
-  YOUR GIF GOES HERE.
-  Option A: put your gif in this repo as assets/header.gif (keep the path below)
-  Option B: replace the src with any direct .gif link (giphy, tenor, imgur...)
-  Look for dark / neon / glitch / retro-computer gifs to match the theme.
-============================================================ -->
+
 <img src="https://media.discordapp.net/attachments/1019343998302818414/1229413977763745924/494AB5CD-BB57-44D8-90B3-AE6715542FC4.gif?ex=6ac98c3d&is=6ac83abd&hm=3178a66900fd236f9c39414dbff18e0464bf8c40b13ed6bdf1f3ffe1db04be0e&=" width="100%" alt="header gif"/>
 
 <br><br>
-
 
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+still+a+learning+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
@@ -24,6 +18,9 @@
 
 <a name="about"></a>
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=about" alt="about"/>
+
+<!-- GIF #2: sits to the right of "about". Save as assets/about.gif or paste a direct .gif link. -->
+<img align="right" width="260" src="https://i.pinimg.com/736x/78/a2/14/78a214e9c73d216362a3a870515ba9a8.jpg" alt="about gif"/>
 
 ```bash
 $ cat about.txt
@@ -44,6 +41,8 @@ interests/
 └── other/          → probably another rabbit hole
 ```
 
+<br clear="right"/>
+
 <details>
 <summary><b>rabbit holes</b></summary>
 <br>
@@ -57,15 +56,19 @@ interests/
 <a name="stack"></a>
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=stack" alt="stack"/>
 
-<div align="center">
+<!-- GIF #3: sits to the left of "stack". Save as assets/stack.gif or paste a direct .gif link. -->
+<img align="left" width="220" src="https://i.pinimg.com/736x/9d/19/e2/9d19e26fb8b94b5fcbedf93d2a8cb9f6.jpg" alt="stack gif"/>
 
-<img src="https://skillicons.dev/icons?i=js,py,c,cpp,java,postgres,bash,react,nodejs,nextjs,vite,git&theme=dark" alt="stack"/>
+**languages**
+`JavaScript` · `Python` · `C/C++` · `Java` · `SQL` · `Bash`
 
-<br><br>
+**web & tooling**
+`React` · `Node.js` · `Next.js` · `Vite` · `REST APIs` · `Git`
 
+**ai & interoperability**
 `agents` · `MCP` · `A2A protocol` · `tool calling` · `orchestration` · `local LLMs` · `RAG`
 
-</div>
+<br clear="left"/>
 
 <br>
 
@@ -92,7 +95,12 @@ interests/
 
 <div align="center">
 
+<!-- GIF #4: small centered gif above the contact buttons. Save as assets/footer.gif or paste a direct .gif link. -->
+<img src="assets/footer.gif" width="180" alt="footer gif"/>
+
+<br><br>
+
 [![email](https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](mailto:YOUR_EMAIL@gmail.com)
-[![discord](https://img.shields.io/badge/discord-YOUR__DISCORD__NAME-0a0a0a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](https://discord.com/users/LVEYUZU)
+[![discord](https://img.shields.io/badge/discord-YOUR__DISCORD__NAME-0a0a0a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](https://discord.com/users/YOUR_DISCORD_ID)
 
 </div>
