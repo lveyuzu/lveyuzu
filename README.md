@@ -6,7 +6,7 @@
   Option B: replace the src with any direct .gif link (giphy, tenor, imgur...)
   Look for dark / neon / glitch / retro-computer gifs to match the theme.
 ============================================================ -->
-<img src="assets/header.gif" width="100%" alt="header gif"/>
+<img src="https://i.pinimg.com/1200x/57/da/7e/57da7e61682c6359d78cc73f2538810e.jpg" width="100%" alt="header gif"/>
 
 <br><br>
 
@@ -93,6 +93,6 @@ interests/
 <div align="center">
 
 [![email](https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](mailto:YOUR_EMAIL@gmail.com)
-[![discord](https://img.shields.io/badge/discord-YOUR__DISCORD__NAME-0a0a0a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](https://discord.com/users/YOUR_DISCORD_ID)
+[![discord](https://img.shields.io/badge/discord-YOUR__DISCORD__NAME-0a0a0a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](https://discord.com/users/LVEYUZU)
 
 </div>
