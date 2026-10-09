@@ -6,7 +6,7 @@
 <br><br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+still+a+learning+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
 
 <br>
 
@@ -19,7 +19,7 @@
 <a name="about"></a>
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=about" alt="about"/>
 
-<!-- GIF #2: sits to the right of "about". Save as assets/about.gif or paste a direct .gif link. -->
+
 <img align="right" width="260" src="https://i.pinimg.com/originals/de/06/40/de0640ac75c0ca8c6dde2e3c6a7a674c.gif" alt="about gif"/>
 
 ```bash
@@ -56,7 +56,7 @@ interests/
 <a name="stack"></a>
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=stack" alt="stack"/>
 
-<!-- GIF #3: sits to the left of "stack". Save as assets/stack.gif or paste a direct .gif link. -->
+
 <img align="left" width="220" src="https://i.pinimg.com/736x/9d/19/e2/9d19e26fb8b94b5fcbedf93d2a8cb9f6.jpg" alt="stack gif"/>
 
 **languages**
@@ -95,7 +95,6 @@ interests/
 
 <div align="center">
 
-<!-- GIF #4: small centered gif above the contact buttons. Save as assets/footer.gif or paste a direct .gif link. -->
 <img src="https://media.discordapp.net/attachments/1019343998302818414/1090856641479573574/IMG_4498.gif?ex=6ac9c06a&is=6ac86eea&hm=48a6544f303ab4e7178ba8a6bc35033bd68cc52f1cb26774c7b78dca628e3e28&=" width="180" alt="footer gif"/>
 
 <br><br>
