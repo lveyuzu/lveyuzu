@@ -134,7 +134,7 @@ tool calling, agent orchestration, and getting different agents to talk to each 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0a0f0d&title_color=00ff9c&icon_color=00ff9c&text_color=9fffd0&border_color=0f3d2a&hide_title=false&rank_icon=github" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LVEYUZU&show_icons=true&hide_border=false&bg_color=0a0f0d&title_color=00ff9c&icon_color=00ff9c&text_color=9fffd0&border_color=0f3d2a&hide_title=false&rank_icon=github" height="165" alt="stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&bg_color=0a0f0d&title_color=00ff9c&text_color=9fffd0&border_color=0f3d2a" height="165" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=LVEYUZU&background=0A0F0D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&currStreakNum=9FFFD0&sideLabels=9FFFD0&sideNums=9FFFD0&dates=4A8F6F&stroke=0F3D2A&border=0F3D2A" alt="streak"/>
@@ -155,7 +155,6 @@ tool calling, agent orchestration, and getting different agents to talk to each 
 ```
 
 [![Email](https://img.shields.io/badge/email-0a0f0d?style=flat-square&logo=gmail&logoColor=00ff9c&labelColor=0a0f0d&color=0f3d2a)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a0f0d?style=flat-square&logo=linkedin&logoColor=00ff9c&labelColor=0a0f0d&color=0f3d2a)](https://linkedin.com/in/USERNAME)
 [![Discord](https://img.shields.io/badge/discord-0a0f0d?style=flat-square&logo=discord&logoColor=00ff9c&labelColor=0a0f0d&color=0f3d2a)](#)
 
 <br>
