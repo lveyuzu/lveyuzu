@@ -137,9 +137,9 @@ tool calling, agent orchestration, and getting different agents to talk to each 
 <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0a0f0d&title_color=00ff9c&icon_color=00ff9c&text_color=9fffd0&border_color=0f3d2a&hide_title=false&rank_icon=github" height="165" alt="stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&bg_color=0a0f0d&title_color=00ff9c&text_color=9fffd0&border_color=0f3d2a" height="165" alt="top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&background=0A0F0D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&currStreakNum=9FFFD0&sideLabels=9FFFD0&sideNums=9FFFD0&dates=4A8F6F&stroke=0F3D2A&border=0F3D2A" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=LVEYUZU&background=0A0F0D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&currStreakNum=9FFFD0&sideLabels=9FFFD0&sideNums=9FFFD0&dates=4A8F6F&stroke=0F3D2A&border=0F3D2A" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0a0f0d&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&title_color=00ff9c" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LVEYUZU&bg_color=0a0f0d&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&title_color=00ff9c" width="100%" alt="activity graph"/>
 
 </div>
 
