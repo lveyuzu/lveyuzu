@@ -6,7 +6,7 @@
 <br><br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+still+a+learning+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+still+a+learning+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
 
 <br>
 
@@ -96,7 +96,7 @@ interests/
 <div align="center">
 
 <!-- GIF #4: small centered gif above the contact buttons. Save as assets/footer.gif or paste a direct .gif link. -->
-<img src="assets/footer.gif" width="180" alt="footer gif"/>
+<img src="https://media.discordapp.net/attachments/1019343998302818414/1090856641479573574/IMG_4498.gif?ex=6ac9c06a&is=6ac86eea&hm=48a6544f303ab4e7178ba8a6bc35033bd68cc52f1cb26774c7b78dca628e3e28&=" width="180" alt="footer gif"/>
 
 <br><br>
 
