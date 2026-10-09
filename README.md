@@ -29,7 +29,7 @@ focus      : low-level stuff, systems, and AI agents
 
 ```
 
-<img align="right" width="260" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="terminal gif"/>
+<img align="right" width="260" src="https://i.pinimg.com/736x/78/a2/14/78a214e9c73d216362a3a870515ba9a8.jpg" alt="terminal gif"/>
 
 
 ```text
