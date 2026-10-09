@@ -101,6 +101,6 @@ interests/
 <br><br>
 
 [![email](https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](mailto:ENKHTURNANDIN@gmail.com)
-[![discord](https://img.shields.io/badge/discord-YOUR__DISCORD__NAME-0a0a0a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](https://discord.com/users/LVEYUZU)
+[![discord](https://img.shields.io/badge/discord-LVEYUZU-0a0a0a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=2a2a2a)](https://discord.com/users/LVEYUZU)
 
 </div>
