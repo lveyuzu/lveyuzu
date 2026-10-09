@@ -20,7 +20,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=about" alt="about"/>
 
 <!-- GIF #2: sits to the right of "about". Save as assets/about.gif or paste a direct .gif link. -->
-<img align="right" width="260" src="https://i.pinimg.com/736x/78/a2/14/78a214e9c73d216362a3a870515ba9a8.jpg" alt="about gif"/>
+<img align="right" width="260" src="https://i.pinimg.com/originals/de/06/40/de0640ac75c0ca8c6dde2e3c6a7a674c.gif" alt="about gif"/>
 
 ```bash
 $ cat about.txt
