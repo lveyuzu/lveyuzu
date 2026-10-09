@@ -6,11 +6,11 @@
   Option B: replace the src with any direct .gif link (giphy, tenor, imgur...)
   Look for dark / neon / glitch / retro-computer gifs to match the theme.
 ============================================================ -->
-<img src="https://i.pinimg.com/1200x/0e/e7/34/0ee734c38206969506612aaf5ded6599.jpg" width="100%" alt="header gif"/>
+<img src="https://media.discordapp.net/attachments/1019343998302818414/1229413977763745924/494AB5CD-BB57-44D8-90B3-AE6715542FC4.gif?ex=6ac98c3d&is=6ac83abd&hm=3178a66900fd236f9c39414dbff18e0464bf8c40b13ed6bdf1f3ffe1db04be0e&=" width="100%" alt="header gif"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=48&duration=4000&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&height=80&lines=lveyuzu" alt="lveyuzu"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+still+a+learning+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
 
