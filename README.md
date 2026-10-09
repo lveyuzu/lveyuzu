@@ -6,7 +6,7 @@
   Option B: replace the src with any direct .gif link (giphy, tenor, imgur...)
   Look for dark / neon / glitch / retro-computer gifs to match the theme.
 ============================================================ -->
-<img src="https://i.pinimg.com/1200x/cc/9c/66/cc9c663fb09c3bf13e4c5deae3c5c44a.jpg" width="100%" alt="header gif"/>
+<img src="https://i.pinimg.com/1200x/0e/e7/34/0ee734c38206969506612aaf5ded6599.jpg" width="100%" alt="header gif"/>
 
 <br><br>
 
