@@ -19,7 +19,7 @@
 <a name="about"></a>
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=about" alt="about"/>
 
-<img align="right" width="35%" hspace="12" vspace="6" src="https://i.pinimg.com/originals/de/06/40/de0640ac75c0ca8c6dde2e3c6a7a674c.gif" alt="about gif"/>
+<img align="right" width="35%" src="https://i.pinimg.com/originals/de/06/40/de0640ac75c0ca8c6dde2e3c6a7a674c.gif" alt="about gif"/>
 
 ```bash
 $ cat about.txt
