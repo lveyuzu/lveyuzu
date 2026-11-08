@@ -7,7 +7,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready." alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1200&color=E8F4FF&background=00000000&center=true&vCenter=true&width=600&lines=%3E+booting+profile...;%3E+CE+student;%3E+currently+down+a+rabbit+hole;%3E+ready" alt="typing intro"/>
 
 <br>
 
