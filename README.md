@@ -19,9 +19,7 @@
 <a name="about"></a>
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=about" alt="about"/>
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/de/06/40/de0640ac75c0ca8c6dde2e3c6a7a674c.gif" width="50%" alt="about gif"/>
-</p>
+<img align="right" width="35%" hspace="12" vspace="6" src="https://i.pinimg.com/originals/de/06/40/de0640ac75c0ca8c6dde2e3c6a7a674c.gif" alt="about gif"/>
 
 ```bash
 $ cat about.txt
@@ -39,6 +37,8 @@ interests/
 └── ai/           → agents, MCP, A2A
 ```
 
+<br clear="right"/>
+
 <details>
 <summary><b>rabbit holes</b></summary>
 <br>
@@ -52,9 +52,7 @@ interests/
 <a name="stack"></a>
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=stack" alt="stack"/>
 
-<p align="center">
-<img src="https://i.pinimg.com/736x/9d/19/e2/9d19e26fb8b94b5fcbedf93d2a8cb9f6.jpg" width="40%" alt="stack gif"/>
-</p>
+<img align="left" width="28%" hspace="12" vspace="6" src="https://i.pinimg.com/736x/9d/19/e2/9d19e26fb8b94b5fcbedf93d2a8cb9f6.jpg" alt="stack gif"/>
 
 **languages**<br>
 `JavaScript` · `Python` · `C/C++` · `Java` · `SQL` · `Bash`
@@ -64,6 +62,8 @@ interests/
 
 **ai & interoperability**<br>
 `agents` · `MCP` · `A2A protocol` · `tool calling` · `orchestration` · `local LLMs` · `RAG`
+
+<br clear="left"/>
 
 <br>
 
