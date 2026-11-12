@@ -32,7 +32,7 @@ focus  : systems, low-level, AI
 ```text
 interests/
 ├── software/     → web, tooling
-├── low-level/    → memory
+├── low-level/    → memory, zig, rust
 ├── architecture/ → OS, concurrency
 └── ai/           → agents, MCP, A2A
 ```
