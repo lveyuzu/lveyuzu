@@ -43,7 +43,7 @@ interests/
 <summary><b>rabbit holes</b></summary>
 <br>
 
-`networking` · `distributed systems` · `compilers` · `virtual machines` · `reverse engineering` · `computer architecture`
+`networking` · `distributed systems` · `compilers` · `virtual machines` · `computer architecture`
 
 </details>
 
