@@ -32,7 +32,7 @@ focus  : systems, low-level, AI
 ```text
 interests/
 ├── software/     → web, tooling
-├── low-level/    → C, memory
+├── low-level/    → memory
 ├── architecture/ → OS, concurrency
 └── ai/           → agents, MCP, A2A
 ```
@@ -55,7 +55,7 @@ interests/
 <img align="left" width="28%" hspace="12" vspace="6" src="https://i.pinimg.com/736x/9d/19/e2/9d19e26fb8b94b5fcbedf93d2a8cb9f6.jpg" alt="stack gif"/>
 
 **languages**<br>
-`JavaScript` · `Python` · `C/C++` · `Java` · `SQL` · `Bash`
+`JavaScript` · `Python` · `C++` · `Java` · `SQL` · `Bash`
 
 **web & tooling**<br>
 `React` · `Node.js` · `Next.js` · `Vite` · `REST APIs` · `Git`
