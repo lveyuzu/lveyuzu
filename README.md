@@ -14,6 +14,7 @@
 
 <!-- im gonna lock tf in -->
 
+<!-- all this just to make a commit and keep a streak i dont even have  streak bro i lost it yesterday i really dont know what to commit rn so i guess ill edit readme comments bruh my claude hit its limit so im useless i need to learn stuff but commiting daily makes me wanna die -->
 <br>
 
 <a name="about"></a>
