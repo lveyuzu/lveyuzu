@@ -15,6 +15,9 @@
 <!-- im gonna lock tf in -->
 
 <!-- all this just to make a commit and keep a streak i dont even have  streak bro i lost it yesterday i really dont know what to commit rn so i guess ill edit readme comments bruh my claude hit its limit so im useless i need to learn stuff but commiting daily makes me wanna die -->
+
+
+<!-- AGAIN cus my git needs to be greener and i forgot even the basics like linked lists so i dont wanna solve problems in class my last leetcode submission was literally when i was 14 and it was a random ass binary tree bro i dont even know what im doing pls send help and prayers i need to get better but im sooooooooo tired bruh im ok nvm maybe ill add more comments cus i suck and i wanna look like i actually code cus my git streaks look so ass i want it everyday but i keep forgetting it bro-->
 <br>
 
 <a name="about"></a>
