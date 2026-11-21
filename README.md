@@ -74,10 +74,7 @@ interests/
 <a name="stats"></a>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LVEYUZU&show_icons=true&bg_color=0a0a0a&title_color=FFFFFF&icon_color=FFFFFF&text_color=D0D0D0&border_color=2a2a2a&hide_rank=true" width="48%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVEYUZU&layout=compact&bg_color=0a0a0a&title_color=FFFFFF&text_color=D0D0D0&border_color=2a2a2a" width="48%" alt="top languages"/>
-</p>
+
 
 <br>
 
