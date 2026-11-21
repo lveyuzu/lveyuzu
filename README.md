@@ -72,7 +72,7 @@ interests/
 <br>
 
 <a name="stats"></a>
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=2500&pause=100000&color=FFFFFF&background=00000000&vCenter=true&width=300&height=45&lines=stats" alt="stats"/>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LVEYUZU&show_icons=true&bg_color=0a0a0a&title_color=FFFFFF&icon_color=FFFFFF&text_color=D0D0D0&border_color=2a2a2a&hide_rank=true" width="48%" alt="stats"/>
